@@ -1,4 +1,4 @@
-# ByteShrink - URL Shortener
+# 🌐 ByteShrink - URL Shortener
 
 ## ✨Overview
 ByteShrink is a simple and efficient URL shortener built using **Next.js**, **MongoDB**, and **Tailwind CSS**. It allows users to create, edit, delete, and manage short links with ease.
