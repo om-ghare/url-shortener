@@ -48,7 +48,7 @@ Open http://localhost:3000 in your browser.
 
 ---
 ## 🤝 Contributing
-Feel free to fork the repo, open issues, and submit pull requests! If you want you can DM me for the source code.
+- Feel free to fork the repo, open issues, and submit pull requests! If you want you can DM me for the source code.
 
 ---
 ##📜 License
