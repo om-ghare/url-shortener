@@ -52,4 +52,4 @@ Open http://localhost:3000 in your browser.
 
 ---
 ##📜 License
-MIT License © 2025 Om Ghare
+- MIT License © 2025 Om Ghare
