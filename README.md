@@ -29,7 +29,7 @@ ByteShrink is a simple and efficient URL shortener built using **Next.js**, **Mo
 ## ⚡ Installation & Setup
 ### 1️⃣ Clone the repository:
 ```sh
-git clone https://github.com/yourusername/byteshrink.git
+git clone https://github.com/om-ghare/byteshrink.git
 ```
 
 ```sh
