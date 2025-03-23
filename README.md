@@ -51,5 +51,5 @@ Open http://localhost:3000 in your browser.
 - Feel free to fork the repo, open issues, and submit pull requests! If you want you can DM me for the source code.
 
 ---
-##📜 License
+## 📜 License
 - MIT License © 2025 Om Ghare
